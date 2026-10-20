@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "beatapi-seedance",
+  "version": "0.1.0",
+  "description": "Create affordable videos from ideas and supported reference media with the Seedance family. From $0.28 for 8 seconds at 480p. Connect your own BeatAPI key and confirm the price before generating.",
+  "author": {
+    "name": "BeatAPI",
+    "email": "support@beatapi.io",
+    "url": "https://beatapi.io"
+  },
+  "homepage": "https://beatapi.io/pricing",
+  "license": "MIT",
+  "keywords": [
+    "beatapi",
+    "grok-bot",
+    "seedance",
+    "video"
+  ],
+  "repository": "https://github.com/BeatAPI/beatapi-seedance"
+}
